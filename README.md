@@ -1,2 +1,2 @@
-# digigreen-
+# digigreen
 based on hackathon 
